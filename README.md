@@ -8,7 +8,7 @@ To get started, clone the repository and install the dependencies.
 
 ```
 git clone https://github.com/Ronaksharma57/movieSearch-js.git
-cd movie-search-app
+cd movieSearch-js
 npm install
 ```
 
