@@ -1,6 +1,6 @@
-## Movie Search App
+## Movie Search 
 
-This is a simple movie search app that allows users to search for movies by name. The app is built using HTML, CSS, and JavaScript.
+This is a simple movie search web that allows users to search for movies by name. The app is built using HTML, CSS, and JavaScript.
 
 ### Getting Started
 
